@@ -2,15 +2,15 @@
 
 **Accounting Graduate | M.S. Applied Data Analytics Student | Financial & Data Analytics**
 
-I am a banking, sales, and operations professional transitioning into data analytics. My background combines accounting education, financial-services experience, performance tracking, and AI data evaluation with hands-on work in Excel, SQL, Python, Power BI, and Tableau.
+I am an accounting and banking professional focused on financial and data analytics. My background combines financial-services experience, performance tracking, operational problem solving, and AI data evaluation with hands-on work in Excel, SQL, Python, Power BI, and Tableau.
 
 ## Background
 
 - Bachelor of Science in Accounting
 - Currently pursuing a Master of Science in Applied Data Analytics
 - Experience with transaction processing, reconciliation, cash balancing, discrepancy research, compliance, and financial-document review
-- Developed a multi-branch sales performance dashboard to track performance trends across multiple branches and 50+ employees
-- Evaluate AI-generated technical work involving finance, accounting, Python, and SQL
+- Developed a multi-branch sales performance dashboard to track trends across multiple branches and more than 50 employees
+- Evaluated AI-generated technical work involving finance, accounting, Python, and SQL
 
 ## Tools and Knowledge
 
@@ -19,19 +19,20 @@ I am a banking, sales, and operations professional transitioning into data analy
 - **Accounting:** GAAP principles, financial reporting, internal controls, reconciliations, and variance analysis
 - **Workflow:** Data cleaning, quality review, documentation, and analytical problem solving
 
-## Current Portfolio Project
+## Featured Projects
 
-### Glassdoor Job Market Analysis
+### [Glassdoor Job Market Analysis](https://github.com/jholbrook88/glassdoor-job-analysis)
 
-A reproducible Python and pandas project that cleans and analyzes 672 data-job postings and generates summary tables and visualizations covering:
+A reproducible Python and pandas project analyzing 672 data-job postings. The project cleans the source data, categorizes job titles and seniority, identifies technical-skill demand, compares estimated salaries, and generates six summary tables and three visualizations.
 
-- Technical-skill demand
-- Estimated salary by job category and seniority
-- Geographic and industry comparisons
-- Data cleaning, missing-value handling, categorization, and documentation
+**Skills demonstrated:** Python, pandas, regular expressions, data cleaning, exploratory analysis, visualization, and reproducible documentation.
 
-The project is currently being verified in a private repository before public release.
+### [Student Academic Outcomes Dashboard](https://github.com/jholbrook88/student-success-dashboard)
+
+An Excel dashboard analyzing 1,000 student records to explore test preparation, lunch type, parental education, subject performance, pass rates, and students at risk.
+
+**Skills demonstrated:** Excel Tables, structured-reference formulas, PivotTables, PivotCharts, KPI design, data validation, and analytical communication.
 
 ## Portfolio Approach
 
-I am building a focused portfolio of well-documented projects connecting accounting, business operations, and data analytics. Each project will be published only when I can clearly explain the code, reproduce the results, and defend the conclusions.
+I build focused, well-documented projects connecting accounting, business operations, and data analytics. Each project is designed so that I can explain the methods, reproduce the results, and defend the conclusions.
