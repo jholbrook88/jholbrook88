@@ -1,38 +1,34 @@
 # Jason Holbrook
 
-**Accounting Graduate | M.S. Applied Data Analytics Student | Financial & Data Analytics**
+**Accounting graduate | M.S. Applied Data Analytics student**
 
-I am an accounting and banking professional focused on financial and data analytics. My background combines financial-services experience, performance tracking, operational problem solving, and AI data evaluation with hands-on work in Excel, SQL, Python, Power BI, and Tableau.
+I spent most of my professional career in banking, sales, and operations. A lot of that work involved tracking performance, reconciling numbers, researching discrepancies, and figuring out why something did not line up. That is what pushed me toward analytics.
+
+I am now building on my accounting background with Excel, SQL, Python, Power BI, Tableau, pandas, and matplotlib. I am especially interested in financial analysis, reporting, operations, and data-focused roles where the numbers need to lead to a practical decision.
 
 ## Background
 
 - Bachelor of Science in Accounting
 - Currently pursuing a Master of Science in Applied Data Analytics
-- Experience with transaction processing, reconciliation, cash balancing, discrepancy research, compliance, and financial-document review
-- Developed a multi-branch sales performance dashboard to track trends across multiple branches and more than 50 employees
-- Evaluated AI-generated technical work involving finance, accounting, Python, and SQL
+- Banking experience involving transaction processing, reconciliation, cash balancing, compliance, and financial-document review
+- Built a multi-branch sales performance dashboard covering more than 50 employees
+- Evaluated AI-generated work involving finance, accounting, Python, and SQL
 
-## Tools and Knowledge
-
-- **Data:** Excel, SQL, Python, pandas
-- **Visualization:** Power BI, Tableau, matplotlib
-- **Accounting:** GAAP principles, financial reporting, internal controls, reconciliations, and variance analysis
-- **Workflow:** Data cleaning, quality review, documentation, and analytical problem solving
-
-## Featured Projects
+## Projects
 
 ### [Glassdoor Job Market Analysis](https://github.com/jholbrook88/glassdoor-job-analysis)
 
-A reproducible Python and pandas project analyzing 672 data-job postings. The project cleans the source data, categorizes job titles and seniority, identifies technical-skill demand, compares estimated salaries, and generates six summary tables and three visualizations.
-
-**Skills demonstrated:** Python, pandas, regular expressions, data cleaning, exploratory analysis, visualization, and reproducible documentation.
+I built this project to practice taking a messy real-world dataset from raw file to finished analysis. Using Python and pandas, I cleaned 672 data-job postings, grouped job titles and seniority levels, measured technical-skill demand, compared estimated salaries, and created six summary tables and three charts.
 
 ### [Student Academic Outcomes Dashboard](https://github.com/jholbrook88/student-success-dashboard)
 
-An Excel dashboard analyzing 1,000 student records to explore test preparation, lunch type, parental education, subject performance, pass rates, and students at risk.
+This project focuses more on Excel and dashboard design. I analyzed 1,000 student records using tables, formulas, PivotTables, PivotCharts, and KPI cards to look at pass rates, test preparation, lunch type, parental education, and students who may be at risk.
 
-**Skills demonstrated:** Excel Tables, structured-reference formulas, PivotTables, PivotCharts, KPI design, data validation, and analytical communication.
+## Tools I Use
 
-## Portfolio Approach
+- Excel, SQL, Python, and pandas
+- Power BI, Tableau, and matplotlib
+- PivotTables, PivotCharts, KPI reporting, and dashboard design
+- Data cleaning, reconciliation, variance analysis, and documentation
 
-I build focused, well-documented projects connecting accounting, business operations, and data analytics. Each project is designed so that I can explain the methods, reproduce the results, and defend the conclusions.
+I am still building this portfolio, but every project here is something I have worked through closely enough to explain, reproduce, and defend in an interview.
