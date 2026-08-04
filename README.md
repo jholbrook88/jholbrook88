@@ -1,6 +1,6 @@
 # Jason Holbrook
 
-**Accounting graduate | M.S. Applied Data Analytics student**
+**B.S. Accounting graduate | M.S. Applied Data Analytics student**
 
 I spent most of my professional career in banking, sales, and operations. A lot of that work involved tracking performance, reconciling numbers, researching discrepancies, and figuring out why something did not line up. That is what pushed me toward analytics.
 
