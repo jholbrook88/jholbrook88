@@ -1,6 +1,6 @@
 # Jason Holbrook
 
-I have a B.S. in Accounting and I'm working toward an M.S. in Applied Data Analytics. My background is in banking, sales, and operations, where a lot of my work involved balancing numbers, tracking results, and looking into discrepancies.
+I have a B.S. in Accounting and I'm working toward an M.S. in Applied Data Analytics. My background is in banking, sales, and operations, where much of my work involved tracking results, reconciling numbers, and investigating discrepancies.
 
 I'm using this page to share my Excel and Python projects. Most focus on accounting tasks, reporting, or making a dataset easier to work with.
 
